@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+}
+
+main{
+    flex: 1 0
+}
+
+footer{
+    background: rgb(28,61,76);
+    background: linear-gradient(90deg, rgba(28,61,76,1) 0%, rgba(30,81,112,1) 67%);
+}
+
+#div-menu{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#img-codo{
+    width: 8%;
+    height: 8%;
+}
+
+#menu-nav{
+    background-color: #353a40;
+}
+
+#comprar-ticket{
+    color: #2d7242;
+}
+
+#botones-descuento{
+    color: #000000;
+}
+
+#botones-descuento h3{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#botones-descuento h6{
+    font-weight: 300;
+}
+
+#botones-descuento h4{
+    font-size: 17px;
+}
+
+#botones-descuento p{
+    font-weight: 100;
+    font-size: 14px;
+}
+
+#borrar{
+    background-color: #81c53d;
+    border: none;
+}
+
+#resumen{
+    background-color: #81c53d;
+    border: none;
+}
+
+
+#texto-footer{
+    margin-left: 50px;
+    color: #ffffff;
+    
+}
+
+#recueadroTotalPagar{
+    background-color: #cce5ff;
+    margin-left: 25.5%;
+    margin-top: 2%;
+    margin-right: 25%;
+    padding-bottom: 2.5%;
+    padding-top: 1.5%;
+    padding-left: 1%;
+}
+#totalPalabra{
+    float: left;
+}
+#pago{
+    float: left;
+}
